@@ -1,0 +1,11 @@
+[project]
+name = "iot-traffic-patterns-analysis"
+version = "0.1.0"
+description = "IoT traffic analysis lab with synthetic device bandwidth, anomaly flags, time series, and boxplots."
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Alberto Mateus P. da Gama" }]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

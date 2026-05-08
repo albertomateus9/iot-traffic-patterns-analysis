@@ -1,0 +1,10 @@
+timestamp,device,bandwidth_kbps
+08:00,CameraLab,820
+09:00,CameraLab,870
+10:00,CameraLab,1820
+08:00,SensorA,45
+09:00,SensorA,52
+10:00,SensorA,49
+08:00,BoardX,120
+09:00,BoardX,180
+10:00,BoardX,260
